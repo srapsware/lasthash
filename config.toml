@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "M38, Sector-12 , Pratap Vihar Ghaziabad UP-201009"
 author = "Shiv Singh"
 copyright = "Copyrighht &copy; 2021"
 description = "This is meta description"
