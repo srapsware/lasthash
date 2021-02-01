@@ -51,7 +51,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/lasthash"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
