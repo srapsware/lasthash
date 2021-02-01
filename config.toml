@@ -21,8 +21,8 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+author = "Shiv Singh"
+copyright = "Copyrighht &copy; 2021"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
