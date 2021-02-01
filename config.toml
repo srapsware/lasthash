@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "Lasthash | New Generation Technologies"
 [[menu.main]]
 name = "Services"
-url = "#"
+url = "#services"
 weight = 2
 [[menu.main]]
 URL = "contact"
