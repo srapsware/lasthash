@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "contact@lasthash.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/lasthash.png"
 phone = "+91 79823 77273"
 theme_color = "#41228e"
 [params.contact]
