@@ -2,6 +2,7 @@ title: "Lasthash"
 email: "contact@lasthash.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lasthash.com"
+cdn: "https://cdn.lasthash.com"
 facebook_url: "https://www.facebook.com/lasthash"
 twitter_url: "https://twitter.com/lasthash"
 github_url:  "https://github.com/srapsware/lasthash"
