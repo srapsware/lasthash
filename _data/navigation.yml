@@ -32,8 +32,10 @@
   url: /about
 - text: Blog
   url: /blog
-- text: Contact
-  url: /contact
+- text: Support
+  url: #
   submenu:
+  - text: Contact Us
+    url: /contact
   - text: Get free quote
     url: /get-a-quote
