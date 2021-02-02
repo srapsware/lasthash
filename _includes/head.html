@@ -4,9 +4,14 @@
     <meta name="description" content="{{page.description}}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <title>{{page.title}} | {{site.title}}</title>
-    <link rel="shortcut icon" href="{{site.url}}/assets/images/favicon.ico" type="image/png"/>
-    <link rel="stylesheet" href="{{site.url}}/assets/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="{{site.url}}/assets/css/animate.css"/>
+	{{if site.cdn}}
+	{{assign baseurl = site.cdn}}
+	{{else}}
+	{{assign baseurl = site.url}}
+	{{endif}}
+    <link rel="shortcut icon" href="{{baseurl}}/assets/images/favicon.ico" type="image/png"/>
+    <link rel="stylesheet" href="{{baseurl}}/assets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="{{baseurl}}/assets/css/animate.css"/>
     <link rel="stylesheet" href="{{site.url}}/assets/css/all.css"/>
     <link rel="stylesheet" href="{{site.url}}/assets/css/magnific-popup.css"/>
     <link rel="stylesheet" href="{{site.url}}/assets/css/nice-select.css"/>
