@@ -26,6 +26,7 @@ plugins:
   - jekyll-archives
   - jekyll-menus
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 ########################################################
