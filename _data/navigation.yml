@@ -10,9 +10,9 @@
   url: /services
     submenu:
   - text: Mobile App
-    url: /mobile-app
+    url: /#
   - text: Ecommerce Development
-    url: /ecommerce-development
+    url: /#
 - text: Other
   url: /
   submenu:
