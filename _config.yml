@@ -31,7 +31,7 @@ plugins:
 defaults:
   -
     scope:
-      path: '/404'
+      path: 'https://www.lasthash.com/404'
     values:
       sitemap: false
 ########################################################
