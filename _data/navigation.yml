@@ -2,13 +2,13 @@
 
 - text: Home
   url: /
-- text: Services
+- text: Our Services
   url: /services
   submenu:
   - text: Mobile App
-    url: /#
+    url: /mobile-app
   - text: Ecommerce Services
-    url: /#
+    url: /ecommerce-services
 - text: Other
   url: /
   submenu:
@@ -18,16 +18,8 @@
     url: /pricing
   - text: Our Team
     url: /team
-  - text: Our Services
-    url: /services
   - text: Features
     url: /features
-  - text: About Us
-    url: /about
-  - text: Contact
-    url: /contact
-  - text: 404
-    url: /404
 - text: About
   url: /about
 - text: Blog
