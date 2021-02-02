@@ -2,11 +2,6 @@
 
 - text: Home
   url: /
-  submenu:
-  - text: Home 2
-    url: /index-2
-  - text: Home 3
-    url: index-3
 - text: About
   url: /about
 - text: Blog
