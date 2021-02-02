@@ -2,10 +2,6 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-- text: Blog
-  url: /blog
 - text: Services
   url: /services
   submenu:
@@ -32,5 +28,9 @@
     url: /contact
   - text: 404
     url: /404
+- text: About
+  url: /about
+- text: Blog
+  url: /blog
 - text: Contact
   url: /contact
