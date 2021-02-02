@@ -26,7 +26,15 @@ plugins:
   - jekyll-menus
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-minifier
 
+
+jekyll-minifier:
+  remove_multi_spaces: true         # Default: true
+  remove_comments: true             # Default: true
+  compress_css: true                # Default: true
+  compress_javascript: true         # Default: true
+  compress_json: true               # Default: true
 
 defaults:
   -
