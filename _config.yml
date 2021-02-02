@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lasthash.com"
 
 cdn: "https://cdn.lasthash.com"
-enable_cdn: false
+enable_cdn: true
 
 facebook_url: "https://www.facebook.com/lasthash"
 twitter_url: "https://twitter.com/lasthash"
