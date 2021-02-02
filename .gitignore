@@ -1,6 +1,4 @@
-### Hugp
-/public/
-/resources/_gen/
-
-### macOS
-.DS_Store
+_site
+.sass-cache
+.jekyll-cache
+Gemfile.lock
