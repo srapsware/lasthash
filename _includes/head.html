@@ -1,17 +1,13 @@
 <head>
-	{{if enable_cdn}}
-	{{assign baseurl = site.cdn}}
-	{{else}}
-	{{assign baseurl = site.url}}
-	{{endif}}
+	{{if enable_cdn}}{{site.cdn}}{{endif}}
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="description" content="{{page.description}}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <title>{{page.title}} | {{site.title}}</title>
-    <link rel="shortcut icon" href="{{baseurl}}/assets/images/favicon.ico" type="image/png"/>
-    <link rel="stylesheet" href="{{baseurl}}/assets/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="{{baseurl}}/assets/css/animate.css"/>
+    <link rel="shortcut icon" href="{{if enable_cdn}}{{site.cdn}}{{endif}}/assets/images/favicon.ico" type="image/png"/>
+    <link rel="stylesheet" href="{{if enable_cdn}}{{site.cdn}}{{endif}}/assets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="{{if enable_cdn}}{{site.cdn}}{{endif}}/assets/css/animate.css"/>
     <link rel="stylesheet" href="{{site.url}}/assets/css/all.css"/>
     <link rel="stylesheet" href="{{site.url}}/assets/css/magnific-popup.css"/>
     <link rel="stylesheet" href="{{site.url}}/assets/css/nice-select.css"/>
