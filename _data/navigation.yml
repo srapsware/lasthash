@@ -8,7 +8,7 @@
   url: /blog
 - text: Services
   url: /services
-    submenu:
+  submenu:
   - text: Mobile App
     url: /#
   - text: Ecommerce Development
