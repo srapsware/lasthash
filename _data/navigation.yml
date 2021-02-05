@@ -10,7 +10,7 @@
   - text: Ecommerce Services
     url: /ecommerce-services
 - text: Other
-  url: /
+  url: #
   submenu:
   - text: FAQ
     url: /faq
