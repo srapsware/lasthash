@@ -3,31 +3,31 @@
 - text: Home
   url: /
 - text: Our Services
-  url: /services
+  url: /services/
   submenu:
   - text: Mobile App
-    url: /mobile-app
+    url: /mobile-app/
   - text: Ecommerce Services
-    url: /ecommerce-services
+    url: /ecommerce-services/
 - text: Other
   url: #
   submenu:
   - text: FAQ
-    url: /faq
+    url: /faq/
   - text: Pricing
-    url: /pricing
+    url: /pricing/
   - text: Our Team
-    url: /team
+    url: /team/
   - text: Features
-    url: /features
+    url: /features/
 - text: About
-  url: /about
+  url: /about/
 - text: Blog
-  url: /blog
+  url: /blog/
 - text: Support
   url: #
   submenu:
   - text: Contact Us
-    url: /contact
+    url: /contact/
   - text: Get free quote
-    url: /get-a-quote
+    url: /get-a-quote/
