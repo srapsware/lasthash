@@ -1,24 +1,24 @@
-title: "Trade -  Multipurpose Business & Corporate Jekyll Template"
-email: "themeaffairs@gmail.com"
-description: >- # this means to ignore newlines until "baseurl:"
- Trade - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+title: "Lasthash"
+email: "contact@lasthash.com"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tradejk.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
-facebook_url: "https://www.facebook.com/jekyll"
-twitter_url: "https://twitter.com/tryghost"
-github_url:  "https://github.com/TryGhost/Ghost"
-pinterest_url: "https://www.pinterest.com/rubel8525"
-linkedin_url: "https://www.linkenin.com/rubel8525"
-instagram_url: "https://www.instagram.com/rubel8525"
-youtube_url: "https://youtube.com/rubel2585"
+
+url: "https://www.lasthash.com"
+
+#cdn: "https://cdn.lasthash.com"
+cdn: "https://www.lasthash.com"
+
+facebook_url: "https://www.facebook.com/lasthash"
+twitter_url: "https://twitter.com/lasthash"
+github_url:  "https://github.com/srapsware/lasthash"
 logo: "/assets/images/logo.png"
 logo_2: "/assets/images/footer-logo.png"
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 
-permalink: "/:title"
+#permalink: "/:title"
+permalink: pretty
 
-copyright_text: "Copyright ©2020. All Rights Reserved"
-phone_number: "+ 012 (345) 67899"
+copyright_text: "Copyright © 2017 - 2021. All Rights Reserved"
+phone_number: "+91 79823 77273"
 cover_image: "/assets/images/page-title-bg.jpg"
 
 
@@ -29,7 +29,16 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
+
+jekyll-minifier:
+  remove_multi_spaces: true         # Default: true
+  remove_comments: true             # Default: true
+  compress_css: true                # Default: true
+  compress_javascript: true         # Default: true
+  compress_json: true               # Default: true
 
 ########################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -40,7 +49,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination page
-  debug: false
+  debug: true
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
