@@ -29,10 +29,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
-  - jekyll-menus
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-minifier
 
 
 jekyll-minifier:
