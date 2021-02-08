@@ -6,9 +6,9 @@
   url: /services/
   submenu:
   - text: Mobile App
-    url: /mobile-app/
+    url: /services/mobile-app/
   - text: Ecommerce Services
-    url: /ecommerce-services/
+    url: /services/ecommerce-services/
 - text: Other
   url: #
   submenu:
