@@ -101,7 +101,6 @@ jekyll-archives:
 feed:
   collections:
     services:
-        output: true
         permalink: /:collection/:path
     posts:
       path: "/index.xml"
