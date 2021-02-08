@@ -89,7 +89,7 @@ pagination:
 
 collections:
   services:
-    output: true
+    #output: true
     permalink: '/services/:path/'
       
 tag_page_layout: tag_page
