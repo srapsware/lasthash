@@ -87,7 +87,10 @@ pagination:
   # Without file extension
   indexpage: 'index'
 
-
+collections:
+    services:
+        permalink: /services/:path
+      
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
@@ -100,7 +103,5 @@ jekyll-archives:
 
 feed:
   collections:
-    services:
-        permalink: /:collection/:path
     posts:
       path: "/index.xml"
