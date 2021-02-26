@@ -136,7 +136,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #0154f7;
+  border: 1px solid #00539c;
   padding: 0 38px;
   font-size: 15px;
   text-transform: capitalize;
@@ -151,7 +151,7 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #0154f7;
+  background-color: #00539c;
   position: relative;
 }
 
@@ -200,8 +200,8 @@ p {
 }
 
 .main-btn.main-btn-2:hover {
-  background-color: #0154f7;
-  border-color: #0154f7;
+  background-color: #00539c;
+  border-color: #00539c;
   color: #fff;
 }
 
@@ -397,7 +397,7 @@ p {
   font-size: 14px;
   height: 35px;
   width: 35px;
-  background: #0154f7;
+  background: #00539c;
   text-align: center;
   line-height: 35px;
   border-radius: 50%;
@@ -482,7 +482,7 @@ p {
 }
 
 .header-top.header-top-2 .header-top-item .header-left-side ul li span i {
-  color: #0154f7;
+  color: #00539c;
   padding-right: 6px;
 }
 
@@ -492,7 +492,7 @@ p {
 }
 
 .header-top.header-top-2 .header-top-item .header-right-social ul li a:hover {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .header-nav {
@@ -501,7 +501,7 @@ p {
   right: 0;
   left: 0;
   z-index: 99;
-  background: #0154f7;
+  background: #00539c;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -521,7 +521,7 @@ p {
   top: 0;
   left: 0;
   right: 0;
-  background: #0154f7;
+  background: #00539c;
   box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.04);
   z-index: 999;
   animation: sticky 1.2s;
@@ -604,7 +604,7 @@ p {
     top: 130%;
     left: 0;
     width: 100%;
-    background-color: #0154f7;
+    background-color: #00539c;
     z-index: 8;
     padding: 10px 16px;
     box-shadow: 0 26px 48px 0 rgba(0, 0, 0, 0.15);
@@ -617,7 +617,7 @@ p {
     top: 130%;
     left: 0;
     width: 100%;
-    background-color: #0154f7;
+    background-color: #00539c;
     z-index: 8;
     padding: 10px 16px;
     box-shadow: 0 26px 48px 0 rgba(0, 0, 0, 0.15);
@@ -882,7 +882,7 @@ p {
 }
 
 .header-nav .navigation .navbar .navbar-nav .nav-item .sub-menu>li:hover>a {
-  background-color: #0154f7;
+  background-color: #00539c;
   color: #fff !important;
 }
 
@@ -953,8 +953,8 @@ p {
 
 .header-nav .navigation .navbar .navbar-btn a:hover {
   color: #fff;
-  background: #0154f7;
-  border-color: #0154f7;
+  background: #00539c;
+  border-color: #00539c;
 }
 
 .header-nav .navigation .navbar .navbar-btn a:hover::before {
@@ -2072,8 +2072,8 @@ p {
 }
 
 .about-3-area .section-title a:hover {
-  background: #0154f7;
-  border-color: #0154f7;
+  background: #00539c;
+  border-color: #00539c;
 }
 
 .about-3-area .about-thumb img {
@@ -2315,11 +2315,11 @@ p {
 }
 
 .features-area .features-item.item-3>i {
-  background: #0154f7;
+  background: #00539c;
 }
 
 .features-area .features-item.item-3 a {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .features-area .features-item.item-4>i {
@@ -2356,11 +2356,11 @@ p {
 }
 
 .features-area .features-item:hover.item-3 {
-  background: #0154f7;
+  background: #00539c;
 }
 
 .features-area .features-item:hover.item-3>i {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .features-area .features-item:hover.item-4 {
@@ -2476,7 +2476,7 @@ p {
   margin-top: 12px;
   font-size: 15px;
   font-weight: 500;
-  color: #0154f7;
+  color: #00539c;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -2493,11 +2493,11 @@ p {
 }
 
 .featires-2-area .featires-item.item-3 .featires-content>i {
-  background: #0154f7;
+  background: #00539c;
 }
 
 .featires-2-area .featires-item.item-3 .featires-content a {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .featires-2-area .featires-item.item-4 .featires-content>i {
@@ -2542,11 +2542,11 @@ p {
 }
 
 .featires-2-area .featires-item:hover.item-3 .featires-content {
-  background: #0154f7;
+  background: #00539c;
 }
 
 .featires-2-area .featires-item:hover.item-3 .featires-content i {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .featires-2-area .featires-item:hover.item-4 .featires-content {
@@ -2646,7 +2646,7 @@ p {
 .project-area .project-item .project-content a {
   font-size: 15px;
   font-weight: 600;
-  color: #0154f7;
+  color: #00539c;
   margin-top: 20px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -2674,7 +2674,7 @@ p {
 .fact-area .fact-item .title {
   font-size: 60px;
   font-weight: 700;
-  color: #0154f7;
+  color: #00539c;
 }
 
 .fact-area .fact-item>span {
@@ -2874,7 +2874,7 @@ p {
 .project-case-area .project-case-item .project-case-content a {
   font-size: 15px;
   font-weight: 600;
-  color: #0154f7;
+  color: #00539c;
   padding-top: 18px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -3025,7 +3025,7 @@ p {
   text-align: center;
   color: #fff;
   font-size: 14px;
-  background: #0154f7;
+  background: #00539c;
   border-radius: 50%;
   margin: 0 3px;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -3183,7 +3183,7 @@ p {
 .team-2-area .team-item .team-thumb ul li a {
   height: 35px;
   width: 35px;
-  background: #0154f7;
+  background: #00539c;
   border-radius: 50%;
   text-align: center;
   line-height: 35px;
@@ -4019,7 +4019,7 @@ p {
 }
 
 .blog-area .blog-item .blog-content ul li i {
-  color: #0154f7;
+  color: #00539c;
   padding-right: 6px;
 }
 
@@ -4063,7 +4063,7 @@ p {
 .blog-area .blog-item .blog-content>a {
   font-size: 15px;
   font-weight: 600;
-  color: #0154f7;
+  color: #00539c;
   margin-top: 18px;
 }
 
@@ -4117,7 +4117,7 @@ p {
 }
 
 .blog-area.blog-masonry .blog-item.blog-item-3 .blog-content span {
-  color: #0154f7;
+  color: #00539c;
   font-size: 15px;
   font-weight: 600;
   padding-left: 40px;
@@ -4133,7 +4133,7 @@ p {
   height: 2px;
   width: 30px;
   transform: translateY(-50%);
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-area.blog-masonry .blog-item.blog-item-4 .blog-thumb::before {
@@ -4181,9 +4181,9 @@ p {
 
 .pagination-area nav ul li a:hover,
 .pagination-area nav ul li a.active {
-  background: #0154f7;
+  background: #00539c;
   color: #fff;
-  border-color: #0154f7;
+  border-color: #00539c;
   box-shadow: 0px 10px 49.5px 0.5px rgba(59, 126, 255, 0.78);
 }
 
@@ -4413,8 +4413,8 @@ p {
 }
 
 .blog-3-area .section-title a:hover {
-  background: #0154f7;
-  border-color: #0154f7;
+  background: #00539c;
+  border-color: #00539c;
 }
 
 .blog-3-area .blog-item .blog-thumb {
@@ -4514,7 +4514,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #0154f7;
+  background-color: #00539c;
   opacity: 0.702;
   z-index: -2;
 }
@@ -4820,9 +4820,9 @@ p {
 }
 
 .footer-area .footer-widget .footer-items-1 ul li a:hover {
-  background: #0154f7;
+  background: #00539c;
   color: #fff;
-  border-color: #0154f7;
+  border-color: #00539c;
 }
 
 .footer-area .footer-widget .footer-items-2 {
@@ -4841,7 +4841,7 @@ p {
 }
 
 .footer-area .footer-widget .footer-items-2 ul li a:hover {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .footer-area .footer-widget .footer-items-3 {
@@ -4936,7 +4936,7 @@ p {
   bottom: 60px;
   height: 50px;
   width: 50px;
-  background: #0154f7;
+  background: #00539c;
   text-align: center;
   border-radius: 50%;
   color: #fff;
@@ -5376,7 +5376,7 @@ p {
 }
 
 .services-area.services-about .services-item>i {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .services-area.services-about .services-item p {
@@ -5399,7 +5399,7 @@ p {
 }
 
 .services-area.services-about .services-item a:hover {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .services-3-area {
@@ -5654,7 +5654,7 @@ p {
 
 .services-pricing-area .pricing-item>span {
   font-size: 40px;
-  color: #0154f7;
+  color: #00539c;
   font-weight: 700;
   padding-bottom: 35px;
 }
@@ -6021,7 +6021,7 @@ p {
 }
 
 .faq-accordion .accordion .card .card-header a i {
-  color: #0154f7;
+  color: #00539c;
   padding-right: 20px;
 }
 
@@ -6216,11 +6216,11 @@ p {
 }
 
 .category-area .category-misson .misson-item a:hover::before {
-  border-color: #0154f7;
+  border-color: #00539c;
 }
 
 .category-area .category-misson .misson-item a:hover::after {
-  border-color: #0154f7;
+  border-color: #00539c;
 }
 
 .category-area .category-goals {
@@ -6269,11 +6269,11 @@ p {
 }
 
 .category-area .category-goals .goals-item a::before {
-  border-color: #0154f7;
+  border-color: #00539c;
 }
 
 .category-area .category-goals .goals-item a::after {
-  border-color: #0154f7;
+  border-color: #00539c;
 }
 
 .category-area .category-goals .goals-item a:hover {
@@ -6529,7 +6529,7 @@ p {
 }
 
 .achievement-area .achievement-counter.item-4 {
-  background: #0154f7;
+  background: #00539c;
   margin-left: 30px;
   margin-right: -30px;
   position: relative;
@@ -6623,8 +6623,8 @@ p {
 }
 
 .achievement-area .achievement-text a:hover {
-  background: #0154f7;
-  border-color: #0154f7;
+  background: #00539c;
+  border-color: #00539c;
 }
 
 .video-play-area {
@@ -6925,7 +6925,7 @@ p {
   text-align: center;
   line-height: 120px;
   border-radius: 50%;
-  background: #0154f7;
+  background: #00539c;
   color: #fff;
 }
 
@@ -7107,7 +7107,7 @@ p {
   text-align: center;
   line-height: 35px;
   border-radius: 50%;
-  background: #0154f7;
+  background: #00539c;
   color: #fff;
   font-size: 14px;
   margin-left: 5px;
@@ -7148,7 +7148,7 @@ p {
   width: 70px;
   text-align: center;
   line-height: 70px;
-  color: #0154f7;
+  color: #00539c;
   border: 0;
   background-color: transparent;
 }
@@ -7192,7 +7192,7 @@ p {
   left: 0;
   height: 2px;
   width: 10px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-sidebar .blog-news .blog-title .title::after {
@@ -7202,7 +7202,7 @@ p {
   left: 17px;
   height: 2px;
   width: 25px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-sidebar .blog-news .blog-news-item {
@@ -7306,7 +7306,7 @@ p {
   left: 0;
   height: 2px;
   width: 10px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-sidebar .blog-list .blog-title .title::after {
@@ -7316,7 +7316,7 @@ p {
   left: 17px;
   height: 2px;
   width: 25px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-sidebar .blog-list .blog-list-item ul li a {
@@ -7333,7 +7333,7 @@ p {
 }
 
 .blog-standard-area .blog-sidebar .blog-list .blog-list-item ul li a:hover {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .blog-standard-area .blog-sidebar .blog-list .blog-tag ul li {
@@ -7378,7 +7378,7 @@ p {
 }
 
 .blog-standard-area .blog-sidebar .blog-list .blog-tag a:hover {
-  background: #0154f7;
+  background: #00539c;
   color: #fff;
 }
 
@@ -7523,7 +7523,7 @@ p {
 }
 
 .blog-standard-area .blog-standard .blog-item .blog-content .item .blog-date ul li i {
-  color: #0154f7;
+  color: #00539c;
   padding-right: 6px;
 }
 
@@ -7562,7 +7562,7 @@ p {
 }
 
 .blog-social ul li a:hover {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .blog-standard-area .blog-standard .blog-item .blog-content .title {
@@ -7616,7 +7616,7 @@ p {
 .blog-standard-area .blog-standard .blog-quote {
   background: #fff;
   padding: 0 30px;
-  border-left: 5px solid #0154f7;
+  border-left: 5px solid #00539c;
   margin-top: -20px;
 }
 
@@ -7724,7 +7724,7 @@ p {
 }
 
 .blog-standard-area .blog-standard .blog-story .blog-story-1 {
-  background: #0154f7;
+  background: #00539c;
   padding: 15px 15px;
 }
 
@@ -7814,7 +7814,7 @@ p {
   left: 0;
   height: 2px;
   width: 10px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-standard .blog-comments .blog-title .title::after {
@@ -7824,7 +7824,7 @@ p {
   left: 17px;
   height: 2px;
   width: 25px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-standard .blog-comments .blog-comments-area .blog-comments-item {
@@ -7872,7 +7872,7 @@ p {
 }
 
 .blog-standard-area .blog-standard .blog-comments .blog-comments-area .blog-comments-item .title span {
-  color: #0154f7;
+  color: #00539c;
   padding-left: 15px;
   font-size: 13px;
   font-weight: 500;
@@ -7959,7 +7959,7 @@ p {
   left: 0;
   height: 2px;
   width: 10px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-standard .blog-massage .blog-title .title::after {
@@ -7969,7 +7969,7 @@ p {
   left: 17px;
   height: 2px;
   width: 25px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .blog-standard-area .blog-standard .blog-massage .blog-form .input-box input {
@@ -8100,7 +8100,7 @@ p {
   line-height: 65px;
   border: 0;
   background-color: transparent;
-  color: #0154f7;
+  color: #00539c;
   font-size: 16px;
 }
 
@@ -8186,7 +8186,7 @@ p {
 }
 
 .shop-area .shop-sidebar .shop-tag .shop-tag-list ul li a:hover {
-  background: #0154f7;
+  background: #00539c;
   color: #fff;
 }
 
@@ -8232,7 +8232,7 @@ p {
   bottom: -15px;
   height: 2px;
   width: 10px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .shop-area .shop-sidebar .shop-title .title::after {
@@ -8242,7 +8242,7 @@ p {
   bottom: -15px;
   height: 2px;
   width: 25px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .shop-area .shop-item .shop-thumb {
@@ -8283,7 +8283,7 @@ p {
   height: 40px;
   width: 40px;
   background: #fff;
-  color: #0154f7;
+  color: #00539c;
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
@@ -8432,8 +8432,8 @@ p {
 
 .product-details-area .product-details-content .product-icons-item-1 ul li:first-child a {
   padding: 0 15px;
-  border-left: 1px dashed #0154f7;
-  border-right: 1px dashed #0154f7;
+  border-left: 1px dashed #00539c;
+  border-right: 1px dashed #00539c;
   line-height: 20px;
   margin-right: 9px;
 }
@@ -8479,11 +8479,11 @@ p {
   bottom: -2px;
   height: 0px;
   width: 100%;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .shop-tab-area .nav .nav-item .nav-link.active {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .shop-tab-area .nav .nav-item .nav-link.active::before {
@@ -8542,7 +8542,7 @@ p {
   height: 40px;
   width: 40px;
   background: #fff;
-  color: #0154f7;
+  color: #00539c;
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
@@ -8643,7 +8643,7 @@ p {
 }
 
 .contact-info-area .contact-info-border .contact-info-item.active i {
-  color: #0154f7;
+  color: #00539c;
 }
 
 .contact-info-area .contact-info-border .contact-info-item.active .item-1 {
@@ -8746,7 +8746,7 @@ p {
   bottom: -19px;
   width: 10px;
   height: 2px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .contact-info-area .contact-massage-area .contact-massage-content .title::after {
@@ -8756,7 +8756,7 @@ p {
   bottom: -19px;
   width: 25px;
   height: 2px;
-  background: #0154f7;
+  background: #00539c;
 }
 
 .contact-info-area .contact-massage-area .contact-massage-content p {
@@ -8803,7 +8803,7 @@ p {
   position: absolute;
   right: 20px;
   top: 30px;
-  color: #0154f7;
+  color: #00539c;
   font-size: 14px;
 }
 
