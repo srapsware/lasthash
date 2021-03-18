@@ -1,4 +1,21 @@
 ---
 label: tos
 hide_body: true
-fields: []
+fields:
+- name: cfffg
+  type: blocks
+  label: cfffg
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: fgdfgdfg
+- name: hjgh
+  type: datetime
+  label: hjgh
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
