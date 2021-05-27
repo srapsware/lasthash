@@ -4,18 +4,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://www.lasthash.com"
 
-#cdn: "https://cdn.lasthash.com"
-cdn: "https://www.lasthash.com"
-
 facebook_url: "https://www.facebook.com/lasthash"
 twitter_url: "https://twitter.com/lasthash"
 github_url:  "https://github.com/srapsware/lasthash"
 logo: "/assets/images/logo.png"
 logo_2: "/assets/images/footer-logo.png"
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
-
-#permalink: "/:title"
-#permalink: pretty
 
 copyright_text: "Copyright © 2017 - 2021. All Rights Reserved"
 phone_number: "+91 79823 77273"
