@@ -13,37 +13,7 @@ pagination:
 
 <section class="blog-area blog-masonry">
 <div class="container">
-    <div class="row justify-content-center">
-	
-	{% for post in paginator.posts %}
-  <h1>{{ post.title }}</h1>
-{% endfor %}
-
-        {% for post in paginator.posts %}
-        <div class="col-lg-4 col-md-7 col-sm-9">
-            <div class="blog-item mt-30">
-                {% if post.post_image %}
-                <div class="blog-thumb">
-                    <a href="{{post.url}}"><img src="{{ post.post_image | relative_url }}" alt="{{post.title}}"></a>
-                </div>
-                {% endif %}
-                <div class="blog-content">
-                    <ul>
-                        {% if post.author %}
-                        <li><i class="fal fa-user"></i> {{post.author}}</li>
-                        {% endif %}
-                        {% if post.date %}
-                         <li><i class="fal fa-calendar-alt"></i> {{post.date | date_to_long_string}}</li>
-                        {% endif %}
-                    </ul>
-                    <h3 class="title"><a href="{{post.url}}">{{post.title}}</a></h3>
-                    <p>{{post.excerpt | strip_html | truncatewords: "25"}}</p>
-                    <a href="{{post.url}}">View Details <i class="fal fa-long-arrow-right"></i></a>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+{% include post_loop.html %}
     <div class="row">
         <div class="col-lg-12">
 
