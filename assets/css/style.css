@@ -521,7 +521,7 @@ p {
   top: 0;
   left: 0;
   right: 0;
-  background: #00539c;
+  background: var(--bg-color);
   box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.04);
   z-index: 999;
   animation: sticky 1.2s;
