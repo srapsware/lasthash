@@ -501,7 +501,7 @@ p {
   right: 0;
   left: 0;
   z-index: 99;
-  background: #00539c;
+  background: var(--bg-color);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {

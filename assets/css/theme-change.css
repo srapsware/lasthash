@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #f79784;
+  --primary-color: #00539c;
   --primary-light: #fcf1e7;
   --secondary-color: #75a9d6;
   --font-color: #234969;
@@ -16,7 +16,7 @@
 }
 
 [data-theme="dark"] {
-  --primary-color: #f79784;
+  --primary-color: #00539c;
   --primary-light: #7e4c45;
   --secondary-color: #75a9d6;
   --font-color: #b7b7b7;
