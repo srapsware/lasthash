@@ -32,6 +32,10 @@
   --ggs: 1;
 }
 
+[data-theme="dark"] img {
+  filter: brightness(0.8) contrast(1.2);
+}
+
 /*-- toggle switch --*/
 .theme-switch-wrapper {
   display: flex;
