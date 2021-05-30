@@ -27,7 +27,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #8a8a8a;
+  color: #eeeeee;
   overflow-x: hidden;
 }
 
@@ -643,7 +643,7 @@ p {
 .header-nav .navigation .navbar .navbar-nav .nav-item a {
   font-size: 18px;
   font-weight: 500;
-  color: #fff;
+  color: var(--nav-color);
   text-transform: capitalize;
   position: relative;
   -webkit-transition: all 0.3s ease-out 0s;
