@@ -14,6 +14,7 @@
   --bg-lightgrey: #f8f9fa;
   --btn-bg: #e2e8f0;
   --ggs: 1;
+  --footer-bg: #101e3b;
 }
 
 [data-theme="dark"] {
@@ -30,6 +31,7 @@
   --bg-lightgrey: #000;
   --btn-bg: #2a2a2a;
   --ggs: 1;
+  --footer-bg: #131617;
 }
 
 [data-theme="dark"] img {

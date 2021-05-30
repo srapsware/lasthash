@@ -4754,7 +4754,7 @@ p {
     11.FOOTER css 
 ===========================*/
 .footer-area {
-  background: #101e3b;
+  background:var(--footer-bg);
   position: relative;
 }
 
