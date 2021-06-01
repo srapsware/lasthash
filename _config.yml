@@ -1,8 +1,8 @@
 title: "Lasthash"
 email: "contact@lasthash.com"
 baseurl: "" # the subpath of your site, e.g. /blog
-
 url: "https://www.lasthash.com"
+timezone: Asia/Kolkata
 
 facebook_url: "https://www.facebook.com/lasthash"
 twitter_url: "https://twitter.com/lasthash"
