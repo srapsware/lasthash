@@ -9,19 +9,8 @@
     url: /services/mobile-app/
   - text: Ecommerce Services
     url: /services/ecommerce-services/
-- text: Other
-  url: #
-  submenu:
-  - text: FAQ
-    url: /faq/
-  - text: Pricing
-    url: /pricing/
-  - text: Our Team
-    url: /team/
-  - text: Features
-    url: /features/
 - text: About
-  url: /about/
+  url: /about-lasthash/
 - text: Blog
   url: /blog/
 - text: Support
