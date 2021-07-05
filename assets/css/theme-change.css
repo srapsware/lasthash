@@ -164,5 +164,5 @@ input:checked + .mode-container i.gg-moon {
   display: none;
 }
 p, .footer-area .footer-widget .footer-items-2 ul li a {
-    font-size: 18px;
+    font-size: 18px !important
 }
