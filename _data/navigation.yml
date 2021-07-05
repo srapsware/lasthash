@@ -5,6 +5,8 @@
 - text: Our Services
   url: /services/
   submenu:
+  - text: Web Development
+    url: /services/web-development/
   - text: Mobile App
     url: /services/mobile-app/
   - text: Ecommerce Services
