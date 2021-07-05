@@ -11,7 +11,7 @@
                 <div class="col-lg-5">
                     <div class="quote-content">
                         <h3 class="title">Get A Quote <br> <span>Free <span>Consultations</span></span></h3>
-                        <form method="POST" data-netlify="true">
+                        <form id="get-quote" method="POST" data-netlify="true" data-netlify-recaptcha="true">
                             <div class="input-box mt-25">
                                 <label for="#">Full Name Here</label>
                                 <input type="text" placeholder="Omar D. Kuebler">
@@ -26,6 +26,9 @@
                                 <label for="#">Leave A Message</label>
                                 <textarea name="#" id="#" cols="30" rows="10" placeholder="Write Message"></textarea>
                                 <i class="fal fa-pen-alt"></i>
+                            </div>
+							<div class="input-box mt-25">
+							<div data-netlify-recaptcha="true"></div>
                             </div>
                             <div class="submit-btn text-right mt-20">
                                 <button type="submit" class="main-btn">Send Mesage</button>
