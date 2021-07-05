@@ -163,3 +163,6 @@ input:checked + .mode-container i.gg-sun {
 input:checked + .mode-container i.gg-moon {
   display: none;
 }
+p {
+    font-size: 18px;
+}
