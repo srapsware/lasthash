@@ -14,7 +14,9 @@
                         <h4 class="title">About Company</h4>
                     </div>
                     <div class="footer-items-1">
-                        <p>Lasthash is a well known brand for last 10 or more years. We cover every element of the IT industry that can meet your hunger for the latest technologies today.</p>
+					{% assign currentYear = 'now' | date: "%Y" | plus:0 %}
+						{% assign AllYears = currentYear | minus: 2017 %}
+                        <p>Lasthash has been a popular brand for over {{ AllYears }} years. We cover all elements of the IT industry that may meet your thirst for the latest technologies today.</p>
                         <ul>
                             {% if site.facebook_url %}
                              <li><a target="__blank" href="{{site.facebook_url}}"><i class="fab fa-facebook-f"></i></a></li>
