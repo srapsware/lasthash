@@ -4936,7 +4936,7 @@ p {
   bottom: 60px;
   height: 50px;
   width: 50px;
-  background: #00539c;
+  background: var(--secondary-bg);
   text-align: center;
   border-radius: 50%;
   color: #fff;
