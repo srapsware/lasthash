@@ -882,7 +882,7 @@ p {
 }
 
 .header-nav .navigation .navbar .navbar-nav .nav-item .sub-menu>li:hover>a {
-  background-color: #00539c;
+  background-color: var(--nav-link);
   color: #fff !important;
 }
 

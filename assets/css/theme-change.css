@@ -17,6 +17,7 @@
   --ggs: 1;
   --footer-bg: #101e3b;
   --nav-color: #ffffff;
+  --nav-link:#00539c;
 }
 
 [data-theme="dark"] {
@@ -36,6 +37,7 @@
   --ggs: 1;
   --footer-bg: #393E46;
   --nav-color: #eeeeee;
+  --nav-link:#00ADB5;
 }
 
 [data-theme="dark"] img {
