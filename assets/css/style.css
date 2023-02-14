@@ -343,7 +343,7 @@ p {
 ===========================*/
 .header-top {
   position: relative;
-  background: #3b7eff;
+  background: var(--header-top-bg);
 }
 
 @media (max-width: 767px) {

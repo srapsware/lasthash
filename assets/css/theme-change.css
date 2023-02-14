@@ -4,6 +4,7 @@
   --secondary-color: #75a9d6;
   --font-color: #234969;
   --bg-color: #00539c;
+  --header-top-bg: #3b7eff;
   --heading-color: #1f2044;
   --border-radius: 6px;
   --border-radius-full: 15px;
@@ -24,6 +25,7 @@
   --secondary-color: #75a9d6;
   --font-color: #b7b7b7;
   --bg-color: #222831;
+  --header-top-bg: #393e46;
   --heading-color: #eee;
   --border-color: rgba(255, 255, 255, 0.2);
   --border-color-light: rgba(255, 255, 255, 0.2);
