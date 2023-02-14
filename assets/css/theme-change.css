@@ -18,12 +18,13 @@
   --footer-bg: #101e3b;
   --nav-color: #ffffff;
   --nav-link:#00539c;
+  --social-icon-bg:#00539c;
 }
 
 [data-theme="dark"] {
   --primary-color: #00539c;
   --primary-light: #7e4c45;
-  --secondary-color: #75a9d6;
+  --secondary-color: #00ADB5;
   --font-color: #b7b7b7;
   --bg-color: #222831;
   --header-top-bg: #393e46;
@@ -38,6 +39,7 @@
   --footer-bg: #393E46;
   --nav-color: #eeeeee;
   --nav-link:#00ADB5;
+  --social-icon-bg:#00ADB5;
 }
 
 [data-theme="dark"] img {
