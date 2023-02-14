@@ -4892,7 +4892,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-top: 2px solid #2b3c60;
+  border-top: 2px solid var(--secondary-bg);
   margin-top: 76px;
 }
 
